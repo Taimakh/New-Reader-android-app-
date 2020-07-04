@@ -1,1 +1,1 @@
-# New-Reader-android-app-
+# News-Reader-android-app-
